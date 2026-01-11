@@ -1,0 +1,6 @@
+{
+    "parent": "betrayd:item/rifle/basic",
+    "textures": {
+        "0": "betrayd:item/rifle/cosmic"
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "betrayd:rifle": {
+    "cosmic": {
+      "models": [
+        "betrayd:item/rifle/cosmic/basic",
+        "betrayd:item/rifle/cosmic/aiming"
+      ]
+    },
+    "kraken": {
+      "models": [
+        "betrayd:item/rifle/kraken/basic",
+        "betrayd:item/rifle/kraken/aiming"
+      ],
+      "rarity": "epic"
+    }
+  },
+  "betrayd:map_renderer": {
+    "mountain": {
+      "models": [
+        "betrayd:gui/maps/mountain"
+      ]
+    },
+    "bayou": {
+      "models": [
+        "betrayd:gui/maps/bayou"
+      ]
+    }
+  }
+}

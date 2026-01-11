@@ -1,0 +1,7 @@
+{
+    "betrayd:hat": {
+        "witch": {
+            "models": ["betrayd:item/hat/witch"]
+        }
+    }
+}

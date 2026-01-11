@@ -1,0 +1,6 @@
+{
+    "parent": "betrayd:item/rifle/aiming",
+    "textures": {
+        "0": "betrayd:item/rifle/kraken"
+    }
+}

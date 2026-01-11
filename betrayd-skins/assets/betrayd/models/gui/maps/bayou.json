@@ -1,0 +1,6 @@
+{
+  "parent": "betrayd:gui/maps/mapart",
+  "textures": {
+    "0": "betrayd:item/gui/maps/bayou"
+  }
+}
