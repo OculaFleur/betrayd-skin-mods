@@ -1,5 +1,32 @@
 {
     "betrayd:hat": {
+        "axe": {
+            "models": ["betrayd:item/hat/axe"]
+        },
+        "cap": {
+            "models": ["betrayd:item/hat/cap"]
+        },
+        "cowboy": {
+            "models": ["betrayd:item/hat/cowboy"]
+        },
+        "crown": {
+            "models": ["betrayd:item/hat/crown"]
+        },
+        "deerstalker": {
+            "models": ["betrayd:item/hat/deerstalker"]
+        },
+        "farmer": {
+            "models": ["betrayd:item/hat/farmer"]
+        },
+        "headphones": {
+            "models": ["betrayd:item/hat/headphones"]
+        },
+        "miner": {
+            "models": ["betrayd:item/hat/miner"]
+        },
+        "top_hat": {
+            "models": ["betrayd:item/hat/top_hat"]
+        },
         "witch": {
             "models": ["betrayd:item/hat/witch"]
         }
